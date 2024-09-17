@@ -20,7 +20,7 @@ git clone [https://github.com/hudakocabiyik/BlockchainVoting.git](https://github
 cd BlockchainVoting
 npm install
 ```
-3.Uygulamayı Çalıştırma: Blok zincir düğümünü ve eşler arası sunucuyu başlatın.
+3. **Uygulamayı Çalıştırma:** Blok zincir düğümünü ve eşler arası sunucuyu başlatın.
 ```bash
 npm start
 ```
