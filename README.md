@@ -1,5 +1,5 @@
 # BlockchainVoting
-Blok Zincir Teknolojisi ile Güvenli Oylama Sistemi
+
 
 Bu proje, blok zincir teknolojisini kullanarak güvenli ve şeffaf bir oylama sistemi oluşturmayı amaçlamaktadır. Geleneksel oylama sistemlerinde karşılaşılan manipülasyon, sahtecilik ve güven sorunlarını ortadan kaldırmak için blok zincirin değiştirilemez ve şeffaf yapısından faydalanır.
 
